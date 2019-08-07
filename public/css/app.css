@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+
+.titulo{
+    margin-top: 40px;
+}
+
+.investimentos{
+    margin-top: 30px;
+    
+}
+
+.investimentos table{
+    text-align: center;
+}
+
+.dashboard{
+    margin-top: 40px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.rendimento{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.paginacao{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
